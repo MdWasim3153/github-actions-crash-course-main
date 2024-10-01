@@ -14,7 +14,7 @@ function App() {
           className="App-link"
           href="https://youtube.com/@DevOpsPro"
           target="_blank_"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer "
         >
           Learn DevOps
         </a>
